@@ -1,4 +1,4 @@
-<h1>Cyprus</h1>
+<h1>Kibris</h1>
 
 <h2>Northern Cyprus</h2>
 
