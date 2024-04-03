@@ -44,6 +44,7 @@ jobs:
 
       - name: Install IPTV Checker and check the playlist
         run: |
+          sudo apt-get update
           npm install -g iptv-checker || true
           mkdir -p output
           sudo apt-get install -y ffmpeg
