@@ -92,7 +92,7 @@ kosovo
 
 # Greek-speaking
 greece
-cyprus
+kibris
 
 # European "microstates"
 andorra
@@ -107,7 +107,7 @@ iran
 iraq
 israel
 qatar
-turkey
+turkiye
 united_arab_emirates
 
 ############################

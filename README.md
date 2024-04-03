@@ -8,8 +8,8 @@ Either free locally (over the air):
 [<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="24">](lists/usa.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="24">](lists/canada.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="24">](lists/uk.md)
-[<img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="24">](lists/turkey.md)
-[<img src="https://hatscripts.github.io/circle-flags/flags/cy.svg" width="24"/>](lists/cyprus.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="24">](lists/turkiye.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/cy.svg" width="24"/>](lists/kibris.md)
 
 Or free on the Internet:
 
